@@ -79,6 +79,7 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+*/
 Developed By:Aishwarya S
 Reg.No:212222100003
 
@@ -181,7 +182,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   
 }
 #endif
-
+*/
 ## Output  :
  ![image](https://github.com/Aishwarya-sankar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/121418444/5fb6ff07-8331-4fba-afe6-40db155b7146)
 
